@@ -17,7 +17,7 @@ class _addNotesState extends State<addNotes> {
   TextEditingController note =TextEditingController();
   TextEditingController title =TextEditingController();
   TextEditingController color =TextEditingController();
-
+// look here 
    MyDb db=MyDb();
   @override
   Widget build(BuildContext context) {
